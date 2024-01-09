@@ -1,4 +1,4 @@
-# README: Content Guidelines
+# README: Resource Repository
 
 ## Introduction
 
