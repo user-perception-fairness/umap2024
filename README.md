@@ -13,14 +13,8 @@ Welcome to the repository containing all essential materials for our paper prese
 4. **movies_dataset.csv:**  dataset of movies used in our study, featuring various attributes and metadata.
 
 ### 2. Images:
-1. **data_main study.xlsx**
-2. **data_offline.xlsx**
-3. **data_pilot.xlsx**
-4. **movies_dataset.csv**
-5. **screen_1.jpg**
-6. **screen_2.jpg**
-7. **screen_3.jpg**
-8. **screen_4.jpg**
-9. **screen_5.jpg**
-10. **analysis.ipynb**
+**screen_1.jpg to screen_5.jpg:** A series of screenshots illustrating interfaces within our study.
+**table** showing the survey table
 
+### 3. Analysis Notebook:
+1. **data_main study.xlsx** analysis.ipynb: A Jupyter notebook containing all the data analysis code, including statistical tests, data visualizations, and interpretive models used in our paper. 
