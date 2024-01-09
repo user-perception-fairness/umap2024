@@ -2,14 +2,20 @@
 
 ## Introduction
 
-Welcome to the conference preparation guide. This document outlines important guidelines and steps for preparing your content for presentation. Adherence to these instructions ensures a seamless and professional experience for all participants.
+This document briefdown important content for the UMAP conference paper. 
 
 ## Contents
 
-1. **Cleaning Python Scripts**
-2. **Preparing Raw Data**
-3. **Removal of Emails**
-4. **Application Codes and Screenshots**
+1. **data_main study.xlsx**
+2. **data_offline.xlsx**
+3. **data_pilot.xlsx**
+4. **movies_dataset.csv**
+5. **screen_1.jpg**
+6. **screen_2.jpg**
+7. **screen_3.jpg**
+8. **screen_4.jpg**
+9. **screen_5.jpg**
+10. **analysis.ipynb**
 
 ---
 
