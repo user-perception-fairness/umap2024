@@ -1,4 +1,4 @@
-# README: Conference Content Guidelines
+# README: Content Guidelines
 
 ## Introduction
 
