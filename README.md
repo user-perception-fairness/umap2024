@@ -17,5 +17,3 @@ Welcome to the repository containing all essential materials for our paper prese
 2. **table** showing the survey table
  
 
-### 3. Analysis Notebook:
-1. **data_main study.xlsx** analysis.ipynb: A Jupyter notebook containing all the data analysis code, including statistical tests, data visualizations, and interpretive models used in our paper. 
