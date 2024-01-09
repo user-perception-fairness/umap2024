@@ -2,10 +2,17 @@
 
 ## Introduction
 
-This document briefdown important content for the UMAP conference paper. 
+Welcome to the repository containing all essential materials for our paper presented at the UMAP conference. This document provides a comprehensive overview of the datasets, image resources, and analysis scripts included. Each file is an integral part of our research and contributes to the insights and conclusions drawn in our UMAP conference paper.
 
 ## Contents
 
+### 1. Datasets:
+1. **data_main_study.xlsx:** This file contains the primary dataset gathered during our main study. It includes user interactions, responses, and behavioral logs.
+2. **data_offline.xlsx:** Offline data collected during the preparatory phase of our research
+3. **data_pilot.xlsx:** Pilot study data, which helped in refining our research methodology
+4. **movies_dataset.csv:**  dataset of movies used in our study, featuring various attributes and metadata.
+
+### 2. Images:
 1. **data_main study.xlsx**
 2. **data_offline.xlsx**
 3. **data_pilot.xlsx**
@@ -17,65 +24,3 @@ This document briefdown important content for the UMAP conference paper.
 9. **screen_5.jpg**
 10. **analysis.ipynb**
 
----
-
-### 1. Cleaning Python Scripts
-
-**Purpose:**  
-Ensure your Python scripts are concise, readable, and free of sensitive information.
-
-**Steps:**
-
-- Remove redundant or unnecessary code.
-- Simplify complex constructs for better understanding.
-- Eliminate any personal or sensitive data.
-- Add comments for clarity where necessary.
-- Test your scripts to confirm they run efficiently and correctly.
-
-### 2. Preparing Raw Data
-
-**Purpose:**  
-Present raw data in an organized and understandable manner.
-
-**Steps:**
-
-- Organize data into structured formats like CSV, Excel, or databases.
-- Anonymize any personal information in the data set.
-- Ensure consistency in data formatting (dates, numbers, etc.).
-- Provide a brief description or legend for the data sets.
-
-### 3. Removal of Emails
-
-**Purpose:**  
-Protect privacy and adhere to data protection regulations.
-
-**Steps:**
-
-- Scan all documents and data sets for email addresses.
-- Redact or anonymize all email addresses.
-- Confirm that no personal contact information is visible in any of the presented materials.
-
-### 4. Application Codes and Screenshots
-
-**Purpose:**  
-Safely share application code without compromising security or privacy.
-
-**Steps:**
-
-- Avoid sharing actual source code directly if not necessary.
-- Use screenshots of code snippets instead of text files.
-- Ensure screenshots do not contain sensitive information or proprietary code.
-- Provide necessary context or annotations for each screenshot to facilitate understanding.
-
----
-
-## Final Checklist
-
-- [ ] Python Scripts cleaned and tested.
-- [ ] Raw data organized and anonymized.
-- [ ] All emails and personal information removed.
-- [ ] Application codes converted to screenshots with appropriate annotations.
-
-## Conclusion
-
-Thank you for adhering to these guidelines. Your cooperation is crucial in ensuring a successful and professional conference. Should you have any queries or require further assistance, please do not hesitate to contact the conference organizers.
