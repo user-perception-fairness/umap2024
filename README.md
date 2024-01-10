@@ -13,7 +13,7 @@ Welcome to the repository containing all essential materials for our paper prese
 4. **movies_dataset.csv:**  dataset of movies used in our study, featuring various attributes and metadata.
 
 ### 2. Images:
-1. **screen_1.jpg to screen_5.jpg:** A series of screenshots illustrating interfaces within our study.
+1. **screen_1.jpg to screen_8.jpg:** A series of screenshots illustrating interfaces within our study.
 2. **table** showing the survey table
  
 
