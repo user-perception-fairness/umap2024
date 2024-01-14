@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the repository containing all essential materials for our paper presented at the UMAP conference. This document provides a comprehensive overview of the datasets, image resources, and analysis scripts included. Each file is an integral part of our research and contributes to the insights and conclusions drawn in our UMAP conference paper.
+This is the online repository for the paper 'User Perception of Fairness-Calibrated Recommendations' submitted to UMAP ‘24
 
 ## Contents
 
