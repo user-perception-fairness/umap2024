@@ -19,7 +19,9 @@ This is the online repository for the paper 'User Perception of Fairness-Calibra
 4. **table_survey.jpg:** Image of the table displaying various survey responses and data points.
 
 ### 3. Scripts:
-1. **
+1. **code_demographic_analysis.ipynb:**
+2. **code_qualitative.ipynb:**
+3. **code_survey.ipynb:**
    
 #### Note: 
 lorem ipum.
