@@ -19,11 +19,9 @@ This is the online repository for the paper 'User Perception of Fairness-Calibra
 4. **table_survey.jpg:** Image of the table displaying various survey responses and data points.
 
 ### 3. Scripts:
-1. **code_demographic_analysis.ipynb:**
-2. **code_qualitative.ipynb:**
-3. **code_survey.ipynb:**
+1. **code_demographic_analysis.ipynb:** File encompasses statistical analysis derived from user-provided demographic responses
+2. **code_qualitative.ipynb:** File includes part of the coding procedure, which has been formulated based on the responses to open-ended questions provided by the users.
+3. **code_survey.ipynb:** File encompasses statistical analysis derived from user-provided survey responses
    
 #### Note: 
-lorem ipum.
-
-
+Elongated screenshots are provided to accurately replicate the user experience of navigating the interface on a mobile device. As the experiment was conducted exclusively on mobile devices, these extended images are essential for demonstrating the consistent user experience encountered by all participants.
