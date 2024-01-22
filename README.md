@@ -16,7 +16,8 @@ This is the online repository for the paper 'User Perception of Fairness-Calibra
 1. **screen_1.jpg to screen_8.jpg:** A series of screenshots illustrating interfaces within our study.
 2. **survey_questions:** exact survey questions (translated).
 3. **table_demographic.jpg:** Image of the table presenting demographic information from our survey.
-4. **table_survey.jpg:** Image of the table displaying various survey responses and data points.
+4. **table-position-overview:** Image showing a table that displays the ranking of movie chosen by the user in the final phase.
+5. **table_survey.jpg:** Image of the table displaying various survey responses and data points.
 
 ### 3. Scripts:
 1. **code_demographic_analysis.ipynb:** File encompasses statistical analysis derived from user-provided demographic responses
