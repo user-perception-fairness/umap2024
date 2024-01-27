@@ -13,11 +13,11 @@ This is the online repository for the paper 'User Perception of Fairness-Calibra
 4. **movies_dataset.csv:** Dataset of movies used in our study, featuring various attributes and metadata.
 
 ### 2. Images:
-1. **screen_1.jpg to screen_8.jpg:** A series of screenshots illustrating interfaces within our study.
-2. **survey_questions:** exact survey questions (translated).
-3. **table_demographic.jpg:** Image of the table presenting demographic information from our survey.
-4. **table-position-overview:** Image showing a table that displays the ranking of movie chosen by the user in the final phase.
-5. **table_survey.jpg:** Image of the table displaying various survey responses and data points.
+1. **screen_1_phasename.jpg to screen_8_phasename.jpg:** A series of screenshots illustrating interfaces within our study.
+2. **survey_questions.jpg:** Exact survey questions (translated).
+3. **table_demographics.jpg:** Table with demographic information from our survey.
+4. **table-position-overview.jpg:** Table with ranking of movie chosen by the user in the final phase.
+5. **table_survey_mean-and-sd.jpg:** Table with means and standard deviations for Q1 to Q17.
 
 ### 3. Scripts:
 1. **code_demographic_analysis.ipynb:** File encompasses statistical analysis derived from user-provided demographic responses
