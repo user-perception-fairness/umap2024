@@ -23,8 +23,8 @@ Multiple images showcasing the various interfaces that are part of the study, or
 ### 4. Tables:
 1. **table_survey_questions.jpg:** Exact survey questions (translated).
 2. **table_demographics.jpg:** Table with demographic information from our survey.
-3. **table-position-overview.jpg:** Table with ranking of movie chosen by the user in the final phase.
-4. **table_survey_mean-and-sd.jpg:** Table with means and standard deviations for Q1 to Q17.
+3. **table_position_overview.jpg:** Table with ranking of movie chosen by the user in the final phase.
+4. **table_survey_mean_and_sd.jpg:** Table with means and standard deviations for Q1 to Q17.
 
 #### Note: 
 Elongated screenshots are provided to accurately replicate the user experience of navigating the interface on a mobile device. As the experiment was conducted exclusively on mobile devices, these extended images are essential for demonstrating the consistent user experience encountered by all participants.
