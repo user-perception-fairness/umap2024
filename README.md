@@ -4,7 +4,7 @@
 
 This is the online repository for the paper 'User Perception of Fairness-Calibrated Recommendations' submitted to UMAP ‘24
 
-## Contents
+## Folders' Content
 
 ### 1. Datasets:
 1. **data_main_study.xlsx:** This file contains the primary dataset gathered during our main study. It includes user interactions, responses, and behavioral logs.
