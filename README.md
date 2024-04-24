@@ -2,7 +2,8 @@
 
 ## Introduction
 
-This is the online repository for the paper 'User Perception of Fairness-Calibrated Recommendations' submitted to UMAP ‘24
+This is the online repository for the paper 'User Perception of Fairness-Calibrated Recommendations', which was accepted at UMAP 2024.
+Authors: Gabrielle Alves, Dietmar Jannach, Rodrigo Ferrari de Souza, Marcelo Garzia Manzato.  
 
 ## Folders' Content
 
